@@ -1,21 +1,35 @@
-🛒 #EcommerceApp - Projeto Educacional de E-commerce
-EcommerceApp é um projeto de aprendizado desenvolvido para explorar o processo completo de criação de uma aplicação de e-commerce, desde o backend escalável em ASP.NET Core até o frontend dinâmico em React. O projeto inclui integração com múltiplos gateways de pagamento, autenticação segura com JWT e documentação completa via Swagger.
+# 🛍️ E-commerce Project
 
-🚀 #Funcionalidades:
-Cadastro e autenticação de usuários (JWT)
-Gerenciamento de produtos e carrinho de compras
-Processamento de pedidos e integração com pagamentos (Mercado Pago, Stripe)
-Interface responsiva e intuitiva em React
-API documentada e testada com Swagger
-🎯 #Objetivo:
-Este projeto foi desenvolvido com o intuito de simular um ambiente real de desenvolvimento de e-commerce, proporcionando uma experiência prática em:
-Backend com ASP.NET Core
-Frontend com React
-Integração de APIs de pagamento
-Criação de uma aplicação escalável e segura
-💡 #Tecnologias Utilizadas:
-ASP.NET Core
-React
-JWT Authentication
-Swagger
-Gateways de Pagamento: Mercado Pago, Stripe
+## 📋 Descrição
+Este é um projeto de e-commerce completo desenvolvido com **ASP.NET Core** no backend e **React** no frontend. O principal objetivo deste projeto é proporcionar uma experiência prática e educacional no desenvolvimento de uma aplicação web escalável, integrando múltiplos gateways de pagamento (Mercado Pago, Stripe e PayPal).
+
+## 🚀 Tecnologias Utilizadas
+
+### Backend
+- **ASP.NET Core**: Criação da API RESTful
+- **Entity Framework Core**: ORM para gerenciamento do banco de dados
+- **JWT Authentication**: Segurança e autenticação
+- **Swagger**: Documentação da API
+- **Pagamentos**: Integração com Mercado Pago, Stripe e PayPal
+
+### Frontend
+- **React**: Desenvolvimento da interface
+- **Tailwind CSS**: Estilização rápida e responsiva
+- **Axios**: Consumo da API
+
+### Banco de Dados
+- **SQL Server** (ou outro de sua preferência)
+
+### Outras Tecnologias
+- **Docker**: Para containerização
+- **Git**: Controle de versão
+
+## 🛠️ Funcionalidades
+- Cadastro e login de usuários
+- Listagem e busca de produtos
+- Carrinho de compras
+- Checkout com múltiplos métodos de pagamento
+- Histórico de pedidos
+
+
+
