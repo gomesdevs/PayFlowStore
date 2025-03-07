@@ -1,7 +1,7 @@
 # 🛍️ E-commerce Project
 
 ## 📋 Descrição
-Este é um projeto de e-commerce completo desenvolvido com **ASP.NET Core** no backend e **React** no frontend. O principal objetivo deste projeto é proporcionar uma experiência prática e educacional no desenvolvimento de uma aplicação web escalável, integrando múltiplos gateways de pagamento (Mercado Pago, Stripe e PayPal).
+Este é um projeto de e-commerce completo desenvolvido com **ASP.NET Core** no backend e **React** no frontend. O principal objetivo deste projeto é o desenvolvimento de uma aplicação web escalável, integrando múltiplos gateways de pagamento (Mercado Pago, Stripe e PayPal).
 
 ## 🚀 Tecnologias Utilizadas
 
